@@ -1,2 +1,3 @@
 jEssentials
 ===========
+All Rights Reserved.
